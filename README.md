@@ -1,3 +1,4 @@
 # imers-o_python_alura
 Resolução das atividades - Imersão Python: do Excel à Análise de Dados da Alura (25/03/2024 - 29/03/2024)
-Exercícios Aula 4
+Edição na Planilha de Ações Puras
+Exercícios das Aulas 2, 3 e 4
