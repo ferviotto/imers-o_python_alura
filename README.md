@@ -1,5 +1,7 @@
-# imers-o_python_alura
-Resolução das atividades - Imersão Python: do Excel à Análise de Dados da Alura (25/03/2024 - 29/03/2024)
-Edição na Planilha de Ações Puras
-Exercícios das Aulas 1, 2, 3, 4 e 5
-Desafio final da imersão
+# Imersão Python: Do Excel à Análise de Dados
+A imersão ocorreu do dia 25/03/2024 ao 29/03/2024 e foi ministrado pela Alura.
+
+## Aula 05 - Previsão de Séries Temporais de Ações e Carreiras no Mercado de Dados:
+1. Tive uma introdução ao Machine Learning;
+2. Revisei as ferramentas aprendidas durante a Imersão;
+3. Conheci mais sobre as carreiras no mercado de dados.
